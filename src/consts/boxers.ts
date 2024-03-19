@@ -295,6 +295,7 @@ export const BOXERS: Boxer[] = addGetters([
 			youtube: "https://www.youtube.com/user/Folagor03",
 			tiktok: "https://www.tiktok.com/@folagor_official",
 		},
+		clips: [],
 		versus: "rey-de-la-pista",
 		rotate: true,
 	},
